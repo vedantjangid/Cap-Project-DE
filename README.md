@@ -2,6 +2,9 @@
 
 A data pipeline with Mage, dbt, Docker, Terraform, GCP and much more!
 
+## Author
+- GitHub: [vedantJangid](https://github.com/vedantJangid)
+
 ## Description
 
 ### Problem
